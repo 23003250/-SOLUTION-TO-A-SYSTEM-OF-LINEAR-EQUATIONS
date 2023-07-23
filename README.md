@@ -26,6 +26,7 @@ print(result)
 ```
 
 ## Output:
+
 ![output](/linear.PNG)
 
 ![output](/solvelinear.PNG)
